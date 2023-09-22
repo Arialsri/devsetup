@@ -1,0 +1,9 @@
+git add .
+git commit -m "anymessage"
+git push
+git status
+git branch
+git checkout -b "enter new branch name"
+git push --set-upstream origin new branch name
+
+
