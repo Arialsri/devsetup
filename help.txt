@@ -6,4 +6,18 @@ git branch
 git checkout -b "enter new branch name"
 git push --set-upstream origin new branch name
 
+//Switching to main Vs branch//
+
+ git branch main
+ git checkout sprint22
+
+ //clone//
+ 
+ git clone pathname
+
+
+
+
+
+
 
