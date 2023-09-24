@@ -14,6 +14,12 @@ git push --set-upstream origin new branch name
  //clone//
  
  git clone pathname
+ // git delete//
+
+ git branch -d sprint23 //deletes in local branch//
+
+ git push origin -d sprint23 //deletes in remote github//
+
 
 
 
