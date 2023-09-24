@@ -1,4 +1,9 @@
 # devsetup
+## Second
+**Hello**
+
 initial development
-Welcome Dhana
-Hello Nara
+
+1. Welcome Dhana
+2. Hello Nara
+3. Hi Lasya
