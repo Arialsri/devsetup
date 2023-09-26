@@ -20,6 +20,11 @@ git push --set-upstream origin new branch name
 
  git push origin -d sprint23 //deletes in remote github//
 
+// Merge//
+git checkout main
+git merge sprint22
+git push
+
 
 
 
